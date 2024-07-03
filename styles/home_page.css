@@ -1,0 +1,21 @@
+/* * {
+    box-align: center;
+} */
+
+* {
+    background-color: black;
+    color: white;
+    /* margin-bottom: 20px; */
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: tahoma;
+}
+
+li{
+    font-family: tahoma;
+}
